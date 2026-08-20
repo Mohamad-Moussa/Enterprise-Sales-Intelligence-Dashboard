@@ -172,7 +172,9 @@ The dashboard enables stakeholders to:
 - Support executive decision-making through consolidated business insights.
 
 ## 📁 Repository Structure
-Enterprise-Sales-Intelligence/
+
+```text
+Enterprise-Sales-Intelligence-Dashboard/
 │
 ├── Dashboard/
 │   └── Enterprise Intelligence.pbix
@@ -189,6 +191,7 @@ Enterprise-Sales-Intelligence/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
 
 ## 🚀 Future Improvements
 
