@@ -27,6 +27,15 @@ This project addresses these challenges by providing a unified Business Intellig
 - Deliver executive-level business insights
 - Support data-driven decision-making
 
+## 📂 Dataset
+
+This project is built using the **Worldwide Importers** sample dataset provided by Microsoft.
+
+The dataset simulates the operations of a wholesale distribution company and includes transactional sales data, customer information, products, sales representatives, orders, invoices, and geographic details.
+
+> **Dataset Source:** Microsoft Worldwide Importers Sample Database  
+> https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers
+
 ## 📈 Dashboard Features
 
 - Interactive KPI cards
