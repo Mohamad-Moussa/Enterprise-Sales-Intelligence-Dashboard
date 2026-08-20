@@ -27,6 +27,18 @@ This project addresses these challenges by providing a unified Business Intellig
 - Deliver executive-level business insights
 - Support data-driven decision-making
 
+## 📈 Dashboard Features
+
+- Interactive KPI cards
+- Dynamic Year-over-Year analysis
+- Customer profitability analysis
+- Product Pareto analysis
+- Geographic performance analysis
+- Executive Decision Center
+- Cross-page filtering
+- Interactive drill-down visuals
+- AI-inspired executive insights
+
 ## 🛠️ Tools & Technologies
 
 | Category | Technologies |
@@ -192,6 +204,17 @@ Enterprise-Sales-Intelligence-Dashboard/
 ├── LICENSE
 └── .gitignore
 ```
+
+## 📥 Download the Dashboard
+
+The complete Power BI dashboard is available in the **Dashboard** folder.
+
+```
+Dashboard/
+└── Enterprise Intelligence.pbix
+```
+
+> Open the `.pbix` file using **Microsoft Power BI Desktop** to explore the interactive report.
 
 ## 🚀 Future Improvements
 
